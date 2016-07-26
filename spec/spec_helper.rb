@@ -1,3 +1,3 @@
 require 'rspec'
-require '../lib/car'
-require '../lib/race'
+require 'car'
+require 'race'

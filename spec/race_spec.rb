@@ -1,5 +1,5 @@
-# require 'spec_helper'
-require '../lib/race'
+require 'spec_helper'
+# require '../lib/race'
 
 RSpec.describe Race do
   subject(:race) {Race.new}

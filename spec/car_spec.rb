@@ -1,4 +1,4 @@
-require '../lib/car'
+require 'spec_helper'
 
 RSpec.describe Car do
   let(:car) { Car.new }
